@@ -9,7 +9,7 @@
             <div class="form-group">
                 <label for="invoice" class="sr-only">Invoice</label>
                 <input type="number" id="invoice" class="form-control" placeholder="<?php echo get_option( 'wpcp_invoice', 14 , false ) ?>" required>
-                <small class="form-text text-muted">Enter number of days before invoice is generated for servers. (Default is 14)</small>
+                <small class="form-text text-muted">Enter number of days before invoice is generated for servers. (Default is 14) hello world</small>
             </div>
             <div class="form-group">
                 <label for="inputEmail" class="sr-only">Auto Suspend</label>
